@@ -41,6 +41,19 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Rose",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIPVT74MW-f7ygpy-kktGtGke9jFVVjzDMKuTwGd7I6lFWssEh",
+      "price": "10",
+      "id": 8
+    },
+  
+    {
+      "name": "Swiss Cheese plant",
+      "image": "https://nouveauraw.com/wp-content/uploads/2020/10/swiss-cheese-plant-moss-pole-feature.png",
+      "price": "50",
+      "id": 10
     }
   ]
 }
